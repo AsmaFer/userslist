@@ -8,7 +8,7 @@
     "id": 1,
     "name": "delectus aut autem",
     "email": "asma01@email.com",
-    "password": "password01",
+    "password": "password01"
 
   },
   {
@@ -16,14 +16,14 @@
     "id": 2,
     "name": "delectus aut autem",
     "email": "asma01@email.com",
-    "password": "password01",
+    "password": "password01"
   },
   {
     "userId": 1,
     "id": 3,
     "name": "delectus aut autem",
     "email": "asma01@email.com",
-    "password": "password01",
+    "password": "password01"
   }
   ],
   "profile": {
